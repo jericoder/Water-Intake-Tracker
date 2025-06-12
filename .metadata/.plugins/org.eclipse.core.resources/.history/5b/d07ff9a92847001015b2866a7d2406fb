@@ -1,0 +1,26 @@
+/*
+ * File: loadcell.c
+ * Author: Jerico Skluzacek
+ * Created: 06/11/2025
+ * Brief: C file for load cell functions
+ */
+
+#include "loadcell.h"
+
+bool capture_flag
+
+int loadcell_capture(){
+
+	while (){
+
+		for (int i = 0; i < PD_SCK_PULSES; i++){
+
+		}
+	}
+}
+
+void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin){
+
+	// reset interrupt flag
+	// set
+}

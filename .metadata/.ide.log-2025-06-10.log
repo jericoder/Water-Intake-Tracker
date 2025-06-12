@@ -1,0 +1,61 @@
+2025-06-11 18:48:47,911 [INFO] WebApp:194 - Connection lost
+2025-06-11 18:48:53,591 [INFO] WebApp:191 - Connection restablished
+2025-06-11 18:48:55,199 [INFO] WebApp:194 - Connection lost
+2025-06-11 18:48:55,556 [INFO] WebApp:191 - Connection restablished
+2025-06-11 18:51:22,877 [INFO] Gpio:277 - dependency for GPIO []
+2025-06-11 18:51:56,742 [INFO] Gpio:277 - dependency for GPIO []
+2025-06-11 18:59:42,113 [INFO] Gpio:277 - dependency for GPIO []
+2025-06-11 19:01:36,292 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,2,37,818x542,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-06-11 19:01:41,858 [INFO] Gpio:277 - dependency for GPIO []
+2025-06-11 19:04:58,995 [INFO] Gpio:277 - dependency for GPIO []
+2025-06-11 19:04:59,029 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-06-11 19:05:25,243 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 464676168 Bytes (709885952)
+2025-06-11 19:05:27,703 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 598831296 Bytes (709885952)
+2025-06-11 19:07:02,390 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 335511864 Bytes (709885952)
+2025-06-11 19:07:04,480 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 380074296 Bytes (709885952)
+2025-06-11 19:07:04,943 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 487029048 Bytes (709885952)
+2025-06-11 19:07:05,217 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-06-11 19:07:05,217 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: MEMORYMAP
+2025-06-11 19:07:05,217 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-06-11 19:07:05,217 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-06-11 19:07:05,218 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-06-11 19:07:05,218 [INFO] CodeGenerator:882 - code generatio: config db path: /opt/st/stm32cubeide_1.18.1/plugins/com.st.stm32cube.common.mx_6.14.1.202504091515//db/
+2025-06-11 19:07:05,351 [INFO] CodeEngine:263 - oldGeneratedFile, /home/jericoskluzacek/Water-Intake-Tracker/firmware/MXTmpFiles/license.tmp_save
+2025-06-11 19:07:05,607 [INFO] CodeEngine:287 - Generated code: /home/jericoskluzacek/Water-Intake-Tracker/firmware/MXTmpFiles/license.tmp
+2025-06-11 19:07:05,647 [INFO] CodeEngine:263 - oldGeneratedFile, /home/jericoskluzacek/Water-Intake-Tracker/firmware/MXTmpFiles/gpio.tmp_save
+2025-06-11 19:07:05,724 [INFO] CodeEngine:287 - Generated code: /home/jericoskluzacek/Water-Intake-Tracker/firmware/MXTmpFiles/gpio.tmp
+2025-06-11 19:07:05,742 [WARN] IPConfigManager:103 - WARNING: Missing Config File for MEMORYMAP ip!!
+2025-06-11 19:07:05,804 [INFO] CodeEngine:263 - oldGeneratedFile, /home/jericoskluzacek/Water-Intake-Tracker/firmware/MXTmpFiles/cortex.tmp_save
+2025-06-11 19:07:05,846 [INFO] CodeEngine:287 - Generated code: /home/jericoskluzacek/Water-Intake-Tracker/firmware/MXTmpFiles/cortex.tmp
+2025-06-11 19:07:05,851 [INFO] CodeEngine:263 - oldGeneratedFile, /home/jericoskluzacek/Water-Intake-Tracker/firmware/Core/Src/stm32h7xx_it.c_save
+2025-06-11 19:07:05,928 [INFO] CodeEngine:287 - Generated code: /home/jericoskluzacek/Water-Intake-Tracker/firmware/Core/Src/stm32h7xx_it.c
+2025-06-11 19:07:05,930 [INFO] CodeEngine:263 - oldGeneratedFile, /home/jericoskluzacek/Water-Intake-Tracker/firmware/Core/Inc/stm32h7xx_it.h_save
+2025-06-11 19:07:05,979 [INFO] CodeEngine:287 - Generated code: /home/jericoskluzacek/Water-Intake-Tracker/firmware/Core/Inc/stm32h7xx_it.h
+2025-06-11 19:07:06,028 [INFO] CodeEngine:263 - oldGeneratedFile, /home/jericoskluzacek/Water-Intake-Tracker/firmware/Core/Src/stm32h7xx_hal_msp.c_save
+2025-06-11 19:07:06,087 [INFO] CodeEngine:287 - Generated code: /home/jericoskluzacek/Water-Intake-Tracker/firmware/Core/Src/stm32h7xx_hal_msp.c
+2025-06-11 19:07:06,088 [INFO] CodeEngine:263 - oldGeneratedFile, /home/jericoskluzacek/Water-Intake-Tracker/firmware/MXTmpFiles/system.tmp_save
+2025-06-11 19:07:06,124 [INFO] CodeEngine:287 - Generated code: /home/jericoskluzacek/Water-Intake-Tracker/firmware/MXTmpFiles/system.tmp
+2025-06-11 19:07:06,127 [INFO] CodeEngine:319 - oldGeneratedFile, /home/jericoskluzacek/Water-Intake-Tracker/firmware/Core/Inc/stm32h7xx_hal_conf.h_save
+2025-06-11 19:07:06,186 [INFO] CodeEngine:343 - Generated code: /home/jericoskluzacek/Water-Intake-Tracker/firmware/Core/Inc/stm32h7xx_hal_conf.h
+2025-06-11 19:07:06,222 [ERROR] ApiDbMcu:464 - Can't load MEMORYMAP-STM32xx root dir null
+2025-06-11 19:07:06,222 [ERROR] ApiDbMcu:536 - Cannot parse MEMORYMAP_Config file : file do not exist
+2025-06-11 19:07:06,227 [INFO] ApiDbMcu:508 - Load IP Config File for RCC
+2025-06-11 19:07:06,233 [INFO] CodeEngine:263 - oldGeneratedFile, /home/jericoskluzacek/Water-Intake-Tracker/firmware/Core/Inc/main.h_save
+2025-06-11 19:07:06,305 [INFO] CodeEngine:287 - Generated code: /home/jericoskluzacek/Water-Intake-Tracker/firmware/Core/Inc/main.h
+2025-06-11 19:07:06,307 [INFO] CodeEngine:263 - oldGeneratedFile, /home/jericoskluzacek/Water-Intake-Tracker/firmware/Core/Src/main.c_save
+2025-06-11 19:07:06,400 [INFO] CodeEngine:287 - Generated code: /home/jericoskluzacek/Water-Intake-Tracker/firmware/Core/Src/main.c
+2025-06-11 19:07:06,573 [INFO] ProjectBuilder:3324 - Time for Copy HAL[1] : 16mS.
+2025-06-11 19:07:06,577 [INFO] ProjectBuilder:4912 - Project Generator version: 4.6.0.1-B1
+2025-06-11 19:07:06,623 [INFO] ConfigFileManager:1590 - The Die is : DIE450
+2025-06-11 19:07:06,628 [INFO] ApiDbMcu:508 - Load IP Config File for FATFS
+2025-06-11 19:07:06,632 [INFO] ApiDbMcu:508 - Load IP Config File for FREERTOS
+2025-06-11 19:07:06,634 [INFO] ApiDbMcu:508 - Load IP Config File for LIBJPEG
+2025-06-11 19:07:06,639 [INFO] ApiDbMcu:508 - Load IP Config File for LWIP
+2025-06-11 19:07:06,644 [INFO] ApiDbMcu:508 - Load IP Config File for MBEDTLS
+2025-06-11 19:07:06,653 [INFO] ApiDbMcu:508 - Load IP Config File for USB_DEVICE
+2025-06-11 19:07:06,656 [INFO] ApiDbMcu:508 - Load IP Config File for USB_HOST
+2025-06-11 19:07:07,305 [INFO] ProjectBuilder:5191 - Time for Generating toolchain IDE Files: 728mS.
+2025-06-11 19:07:07,306 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 0mS.
+2025-06-11 19:07:07,306 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 0mS.
+2025-06-11 19:25:32,441 [INFO] Gpio:277 - dependency for GPIO []
+2025-06-11 19:25:35,923 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,2,37,898x542,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]

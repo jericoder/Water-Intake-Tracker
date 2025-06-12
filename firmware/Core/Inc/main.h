@@ -1,21 +1,10 @@
 /* USER CODE BEGIN Header */
-/**
-  ******************************************************************************
-  * @file           : main.h
-  * @brief          : Header for main.c file.
-  *                   This file contains the common defines of the application.
-  ******************************************************************************
-  * @attention
-  *
-  * Copyright (c) 2025 STMicroelectronics.
-  * All rights reserved.
-  *
-  * This software is licensed under terms that can be found in the LICENSE file
-  * in the root directory of this software component.
-  * If no LICENSE file comes with this software, it is provided AS-IS.
-  *
-  ******************************************************************************
-  */
+/*
+ * File: main.h
+ * Author: Jerico Skluzacek
+ * Created: 06/11/2025
+ * Brief: header file for main
+ */
 /* USER CODE END Header */
 
 /* Define to prevent recursive inclusion -------------------------------------*/
@@ -57,6 +46,11 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
+#define DOUT_Pin GPIO_PIN_3
+#define DOUT_GPIO_Port GPIOA
+#define DOUT_EXTI_IRQn EXTI3_IRQn
+#define PD_SCK_Pin GPIO_PIN_7
+#define PD_SCK_GPIO_Port GPIOD
 #define LD2_Pin GPIO_PIN_1
 #define LD2_GPIO_Port GPIOE
 
